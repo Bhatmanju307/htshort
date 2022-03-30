@@ -1,4 +1,4 @@
-# Droplink-bot
+# htshort-bot
 Make short link by using [htshort] API key
 ### Installation
 
