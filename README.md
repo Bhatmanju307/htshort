@@ -1,10 +1,10 @@
 # Droplink-bot
-Make short link by using [Droplink](https://droplinks.co/) API key
+Make short link by using [htshort] API key
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhatmanju307/Droplink)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhatmanju307/htshort)
 
 ##### Required Variables
 
